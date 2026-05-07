@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "subject": "Payment failed",
+    "message": "My payment failed but money was withdrawn from my card.",
+    "customerType": "premium",
+    "createdAt": "2026-04-29T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "subject": "Cannot login",
+    "message": "I forgot my password and cannot access my account.",
+    "customerType": "standard",
+    "createdAt": "2026-04-29T10:05:00Z"
+  },
+  {
+    "id": 3,
+    "subject": "App crashes",
+    "message": "The mobile app crashes when I upload a photo.",
+    "customerType": "standard",
+    "createdAt": "2026-04-29T10:10:00Z"
+  },
+  {
+    "id": 4,
+    "subject": "Refund request",
+    "message": "I want a refund for my last invoice.",
+    "customerType": "premium",
+    "createdAt": "2026-04-29T10:15:00Z"
+  },
+  {
+    "id": 5,
+    "subject": "",
+    "message": "",
+    "customerType": "standard",
+    "createdAt": "2026-05-01T10:00:00Z"
+  },
+  {
+    "id": 6,
+    "subject": "Ödeme yaparken uygulama çöktü",
+    "message": "Payment sayfasında card bilgilerini girince app crashes.",
+    "customerType": "standard",
+    "createdAt": "2026-05-01T11:00:00Z"
+  },
+  {
+    "id": 7,
+    "subject": "Acil erişim",
+    "message": "Hesabım blocked oldu, immediately yardım lazım!",
+    "customerType": "standard",
+    "createdAt": "2026-05-01T12:00:00Z"
+  },
+  {
+    "id": 8,
+    "subject": "Sadece selam",
+    "message": "İyi çalışmalar dilerim.",
+    "customerType": "standard",
+    "createdAt": "2026-05-01T13:00:00Z"
+  },
+  {
+    "id": 9,
+    "subject": "System is down",
+    "message": "Is there a global outage? No one in our office can access the database.",
+    "customerType": "standard"
+},
+{
+    "id": 10,
+    "subject": "Unauthorized access",
+    "message": "I think my account is hacked, I see login attempts from another country.",
+    "customerType": "standard"
+},
+{
+    "id": 11,
+    "subject": "UI Preference",
+    "message": "The blue color of the header is too dark for my eyes.",
+    "customerType": "premium"
+},
+  {
+    "id": 12,
+    "subject": "Hesabım kilitlendi",
+    "message": "Şifremi 3 kere yanlış girdim ve şu an blocked durumdayım. Acil açılması lazım, sunumum var!",
+    "customerType": "standard"
+  },
+  {
+    "id": 13,
+    "subject": "Giriş yapamıyorum",
+    "message": "Login ekranında hata alıyorum. Hemen  yardım edebilir misiniz? Sisteme erişmem gerekiyor.",
+    "customerType": "standard"
+  },
+  {
+    "id": 14,
+    "subject": "ASAP: Password reset",
+    "message": "Şifre sıfırlama maili gelmiyor, sisteme cannot use. Çok acil erişim sağlamalıyım.",
+    "customerType": "standard"
+  }
+]

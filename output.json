@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "category": "billing",
+        "priority": "high",
+        "assignedTeam": "payments-team",
+        "reason": "High priority assigned due to: Premium Customer, Financial Dispute."
+    },
+    {
+        "id": 2,
+        "category": "account",
+        "priority": "medium",
+        "assignedTeam": "account-support",
+        "reason": "Standard account related inquiry."
+    },
+    {
+        "id": 3,
+        "category": "technical",
+        "priority": "medium",
+        "assignedTeam": "technical-support",
+        "reason": "Standard technical related inquiry."
+    },
+    {
+        "id": 4,
+        "category": "billing",
+        "priority": "high",
+        "assignedTeam": "payments-team",
+        "reason": "High priority assigned due to: Premium Customer, Financial Dispute."
+    },
+    {
+        "id": 5,
+        "category": "general",
+        "priority": "low",
+        "assignedTeam": "general-support",
+        "reason": "General inquiry with no priority triggers."
+    },
+    {
+        "id": 6,
+        "category": "billing",
+        "priority": "low",
+        "assignedTeam": "payments-team",
+        "reason": "General inquiry with no priority triggers."
+    },
+    {
+        "id": 7,
+        "category": "general",
+        "priority": "high",
+        "assignedTeam": "general-support",
+        "reason": "High priority assigned due to: Urgent Keyword Detected."
+    },
+    {
+        "id": 8,
+        "category": "general",
+        "priority": "low",
+        "assignedTeam": "general-support",
+        "reason": "General inquiry with no priority triggers."
+    },
+    {
+        "id": 9,
+        "category": "account",
+        "priority": "high",
+        "assignedTeam": "account-support",
+        "reason": "High priority assigned due to: Critical Technical/Security Issue."
+    },
+    {
+        "id": 10,
+        "category": "account",
+        "priority": "high",
+        "assignedTeam": "account-support",
+        "reason": "High priority assigned due to: Critical Technical/Security Issue."
+    },
+    {
+        "id": 11,
+        "category": "general",
+        "priority": "high",
+        "assignedTeam": "general-support",
+        "reason": "High priority assigned due to: Premium Customer."
+    },
+    {
+        "id": 12,
+        "category": "general",
+        "priority": "high",
+        "assignedTeam": "general-support",
+        "reason": "High priority assigned due to: Urgent Keyword Detected."
+    },
+    {
+        "id": 13,
+        "category": "account",
+        "priority": "medium",
+        "assignedTeam": "account-support",
+        "reason": "Standard account related inquiry."
+    },
+    {
+        "id": 14,
+        "category": "account",
+        "priority": "high",
+        "assignedTeam": "account-support",
+        "reason": "High priority assigned due to: Urgent Keyword Detected."
+    }
+]
